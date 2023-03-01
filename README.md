@@ -16,6 +16,6 @@
 
 ![](./pic/3.png)
 
-### Drak light
+### Dark light
 
 ![](./pic/4.png)
